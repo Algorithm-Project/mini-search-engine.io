@@ -6,8 +6,8 @@ wherein on typing the query, you get relevant results (fig.2). We have used a pr
 CSS called “border-radius” to smoothen the edges of the page. The Search Button has
 been built using a bootstrap class “btn btn-lg btn-primary”. The image above the search bar
 is a simple h1 tag which can also be replaced with an image or SVG.
-![fig 1](https://user-images.githubusercontent.com/64315915/81163689-c4601700-8fac-11ea-9580-0243f5de7132.png)
-fig.1
+<img src="https://user-images.githubusercontent.com/64315915/81163689-c4601700-8fac-11ea-9580-0243f5de7132.png" width="800" height="450">
+ fig.1
 Factors affecting the order in which the web pages appear (Search Engine Optimization)
 (fig.2) include number of backlinks, authenticity of results, user traffic on the web pages, etc.
 In fig. , the black link bar under each displayed web page shows the number of backlinks
