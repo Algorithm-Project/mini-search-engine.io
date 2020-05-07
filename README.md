@@ -7,7 +7,9 @@ CSS called “border-radius” to smoothen the edges of the page. The Search But
 been built using a bootstrap class “btn btn-lg btn-primary”. The image above the search bar
 is a simple h1 tag which can also be replaced with an image or SVG.
 <img src="https://user-images.githubusercontent.com/64315915/81163689-c4601700-8fac-11ea-9580-0243f5de7132.png" width="700" height="450">
+
 fig.1
+
 Factors affecting the order in which the web pages appear (Search Engine Optimization)
 (fig.2) include number of backlinks, authenticity of results, user traffic on the web pages, etc.
 In fig. , the black link bar under each displayed web page shows the number of backlinks
@@ -26,6 +28,9 @@ inside the web pages and below them is the actual link of the particular web pag
 wrapped around the anchor tag) Clicking on either of those will redirect the user to the
 corresponding web page.
 <img src="https://user-images.githubusercontent.com/64315915/81164263-b8c12000-8fad-11ea-83e7-4c4bdb86cded.png" width="700" height="450">
+
 Fig. 2
+
 <img src="https://user-images.githubusercontent.com/64315915/81164329-cd051d00-8fad-11ea-8fc3-f1e4ef99ac70.png" width="700" height="450">
+
 Fig. 3
