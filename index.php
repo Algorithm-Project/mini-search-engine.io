@@ -7,8 +7,6 @@
 			<center> 
 				<h1> My Search Engine </h1> 
 				<input type = 'text' size='90' name = 'search'> 
-				</br> 
-				</br> 
 				<input type = 'submit' name = 'submit' value = 'Search source code'> 
 				<option> 10 </option> 
 				<option> 20 </option> 
